@@ -32,7 +32,7 @@ For Bowling
 • Additional 10 points for 5 wickets or more in innings
 • 4 points for economy rate (runs given per over) between 3.5 and 4.5
 • 7 points for an economy rate between 2 and 3.5
-• 10 pointsfor aneconomy rate lessthan2
+• 10 points for an economy rate less than 2
 
 For Fielding
 • 10 points each for catch/stumping/run out.
